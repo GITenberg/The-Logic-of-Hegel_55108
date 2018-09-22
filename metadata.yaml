@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '42701'
     url: http://www.gutenberg.org/2009/agents/42701
   translator: *id001
+covers:
+- cover_type: archival
+  image_path: 55108-h/images/cover.jpg
 creator:
   author:
     agent_name: Hegel, Georg Wilhelm Friedrich
@@ -19,6 +22,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2161
     wikipedia: http://en.wikipedia.org/wiki/Georg_Wilhelm_Friedrich_Hegel
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/55108#The-Logic-of-Hegel
 gutenberg_issued: '2017-07-13'
 gutenberg_type: Text
 identifiers:
